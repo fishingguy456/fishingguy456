@@ -1,6 +1,6 @@
 ### Hi, I'm Kevin Qu 👋
 
-I'm studying Engineering Science at the University of Toronto
+I'm studying Engineering Science Robotics + AI Minor at the University of Toronto
 
 My website: https://fishingguy456.github.io/
 
